@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Enter Data Eventos MinCulturas</title>
+</head>
+<body>
+
+  <form id="miForm">
+    <label for="id">Id---------------:</label>
+    <input type="text" id="id" name="id"><br><br>
+
+    <label for="fecha">Fecha ISO-----:</label>
+    <input type="text" id="fecha" name="fecha"><br><br>
+
+    <label for="fechaInicio">Fecha de inicio:</label>
+    <input type="text" id="fechaInicio" name="fechaInicio"><br><br>
+
+    <label for="fechaFin">Fecha de fin---:</label>
+    <input type="text" id="fechaFin" name="fechaFin"><br><br>
+
+    <label for="fechaFin">Fecha inicio expo:</label>
+    <input type="text" id="fechaExpo" name="fechaExpo"><br><br>
+    
+    <label for="categoria">categoria-------:</label>
+    <input type="text" id="categoria" name="categoria"><br><br>
+    
+    <label for="titulo">Título----------:</label>
+    <input type="text" id="titulo" name="titulo" style="width: 400px;"><br><br>
+    
+    <label for="imagen">Url imagen----:</label>
+    <input type="text" id="imagen" name="imagen" style="width: 400px;"><br><br>
+
+    <label for="alt">Alt text--------:</label>
+    <input type="text" id="alt" name="alt" style="width: 400px;"><br><br>
+
+    <label for="hora">Hora-----------:</label>
+    <input type="text" id="hora" name="hora"><br><br>
+
+    <label for="lugar">Lugar----------:</label>
+    <input type="text" id="lugar" name="lugar" style="width: 400px;"><br><br>
+    
+    <label for="descripcion">Descripcion---:</label>
+    <textarea id="descripcion" name="descripcion" style="width: 400px;"></textarea><br><br>
+
+    <label for="enlace">Enlace Url-----:</label>
+    <input type="text" id="enlace" name="enlace" style="width: 400px;"><br><br>
+
+    <label for="entrada">Entrada--------:</label>
+    <input type="text" id="entrada" name="entrada" style="width: 400px;"><br><br>
+
+    <label for="organizador">Organizador---:</label>
+    <input type="text" id="organizador" name="organizador" style="width: 400px;"><br><br>
+
+    <button type="button" onclick="agregarDatos()">Agregar datos</button>
+    <button type="button" onclick="descargarDatos()">Descargar datos</button>
+    <button type="reset">Limpiar campos</button>
+  </form>
+
+  <script>
+    var datosJSON = [];
+
+    function agregarDatos() {
+      // Obtener los valores de los campos del formulario
+      var id = document.getElementById("id").value;
+      var fecha = document.getElementById("fecha").value;
+      var fechaInicio = document.getElementById("fechaInicio").value;
+      var fechaFin = document.getElementById("fechaFin").value;
+      var fechaExpo = document.getElementById("fechaExpo").value;
+      var categoria = document.getElementById("categoria").value;
+      var titulo = document.getElementById("titulo").value;
+      var imagen = document.getElementById("imagen").value;
+      var alt = document.getElementById("alt").value;
+      var hora = document.getElementById("hora").value;
+      var lugar = document.getElementById("lugar").value;
+      var descripcion = document.getElementById("descripcion").value;
+      var enlace = document.getElementById("enlace").value;
+      var entrada = document.getElementById("entrada").value;
+      var organizador = document.getElementById("organizador").value;
+
+
+
+
+      // Crear un objeto JSON con los valores obtenidos
+      var datos = {
+        "id": id,
+        "fecha": fecha,
+        "fechaInicio": fechaInicio,
+        "fechaFin": fechaFin,
+        "fechaExpo": fechaExpo,
+        "categoria": categoria,
+        "titulo": titulo,
+        "imagen": imagen,
+        "alt": alt,
+        "hora": hora,
+        "lugar": lugar,
+        "descripcion": descripcion,
+        "enlace": enlace,
+        "entrada": entrada,
+        "organizador": organizador
+      };
+
+      // Agregar el nuevo objeto JSON al objeto JSON existente
+      datosJSON.push(datos);
+    }
+
+    function descargarDatos() {
+      // Convertir el objeto JSON actualizado en una cadena de texto con formato legible
+      var datosActualizadosJSON = JSON.stringify(datosJSON, null, 4);
+
+      // Crear un objeto Blob con la cadena de texto actualizada
+      var blob = new Blob([datosActualizadosJSON], {type: "application/json"});
+
+      // Crear un enlace para descargar el archivo
+      var enlace = document.createElement("a");
+      enlace.href = URL.createObjectURL(blob);
+      enlace.download = "datos.json";
+
+      // Hacer clic en el enlace para descargar el archivo
+      enlace.click();
+    }
+  </script>
+</body>
+</html>

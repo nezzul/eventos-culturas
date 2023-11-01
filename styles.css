@@ -1,0 +1,231 @@
+#galeria {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    flex-wrap: wrap;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    line-height: 1.1;
+    max-width: 1400px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  
+  #galeria .card {
+    flex-basis: calc(18% - 20px);
+    border: 2px solid #4b3c8c;
+    margin: 5px;
+    border: 1px solid gray;
+  }
+  
+  #galeria .categoria {
+    color: gray;
+    font-size: 1em;
+    line-height: 1.5;
+    border-bottom: 1px solid #4b3c8c;
+    margin-top: 0px;
+  }
+
+  #galeria .fechaInicio {
+    color: white;
+    background-color: #4b3c8c;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  
+  #galeria .titulo {
+    color: rgb(54, 54, 54);
+    font-size: 1.2em;
+    font-style: normal;
+    height: 3.4em;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+  }
+
+  #galeria img {
+    width: 100%;
+  }
+
+    #galeria p {
+        color: gray;
+  }
+
+  #galeria .hora {
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  #galeria .entrada {
+    font-size: 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  #galeria .organizador {
+    background-color: gray;
+    color: white;
+    height: 2em;
+    margin-bottom: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+
+  .modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background-color: rgba(131, 130, 130, 0.877);
+    justify-content: center;
+    align-items: flex-start;
+    font-family: 'Nunito Sans', sans-serif;
+    color: black;
+    width: 100%;
+    overflow: auto;
+  }
+
+  :where(.js-modal-show) .modal {
+    display: flex;
+  }
+
+  .modal__content {
+    width: 100%;
+    min-width: 350px;
+    max-width: 600px;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0);
+  }
+
+  .modal__close {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-size: 2em;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+  }
+
+  .modal .fechaInicio {
+    font-size: 2em;
+    color: white;
+    background-color: #4b3c8c;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .modal .categoria {
+    font-size: 2em;
+    color: gray;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .modal .titulo {
+    font-size: 2.5em;
+    text-align: center;
+    font-weight: 600;
+    font-style: bold;
+    padding: 10px;
+  }
+
+  .modal img {
+    width: 100%;
+  }
+
+  .modal p {
+    font-size: 1em;
+    padding-top: 20px;
+    line-height: 150%;
+  }
+
+
+  .modal .hora {
+    font-size: 1em;
+  }
+
+
+
+  .modal .organizador {
+    font-size: 2em;
+    color: white;
+    background-color: gray;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+  }
+
+
+      /* CABEZOTE */
+  .container {
+    display: flex;
+    justify-content: center;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .container__inner {
+      width: 100%;
+      max-width: 1400px;
+  }
+
+
+/* HEADER  */
+.topbar {
+  display: grid;
+  grid-template-columns: min-content 1fr;
+  grid-template-rows: min-content min-content;
+  gap: 10px;
+}
+.logo2 {
+  justify-self: end;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+@media (max-width: 640px) {
+  .logo2 {
+      width: 120px;
+  }  
+}
+.logolink {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+@media (max-width: 640px) {
+  .logolink img {
+      width: 120px;
+  }  
+}
+@media (max-width: 640px) {
+  .topbar {
+      width: 100%;
+  }  
+}
+
+/* TÍTULO DE PÁGINA */
+.titlepag {
+  color: white;
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 2.5em;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-family: nunito, sans-serif;
+  font-weight: 600;
+  background-color: #4b3c8c;
+}
