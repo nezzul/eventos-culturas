@@ -219,5 +219,22 @@
         "enlace": "",
         "entrada": "Entrada libre",
         "organizador": "Programa Nacional de Concertación Cultural"
+    },
+    {
+        "id": "ev14",
+        "fecha": "2023-12-02T23-59",
+        "fechaInicio": "Hasta 2 dic",
+        "fechaFin": "",
+        "fechaExpo": "Desde el 9 de noviembre ",
+        "categoria": "Cine",
+        "titulo": "Festival de Cine Argentina Vive en los Museos",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Festival-de-Cine-Argentina-mcas.jpg",
+        "alt": "Festival de Cine Argentina",
+        "hora": "--",
+        "lugar": "En museos participantes",
+        "descripcion": "MinCulturas y la Embajada de Argentina en Colombia suman esfuerzos para presentar este festival de cine. Durante este festival se exhibirán doce largometrajes de diferentes géneros en los museos participantes. La entrada es libre y gratuita.<br>Fecha: del 9 de noviembre al 2 de diciembre de 2023.<br>Público: apta para todos los públicos (clasificación A).<br>Donde:<br>\n• Museo Juan del Corral – Santa Fe de Antioquia, Antioquia<br>• Museo Casa Natal General Santander – Villa del Rosario, Norte de Santander<br>• Museo Antonio Nariño – Villa de Leyva, Boyacá<br>• Museo Guillermo León Valencia – Popayán, Cauca<br>• Museo Nacional Guillermo Valencia – Popayán, Cauca<br>• Museo Alfonso López Pumarejo – Honda, Tolima<br>• Museo de la Gran Convención – Ocaña, Norte de Santander<br>• Museo Nacional de Colombia – Bogotá<br><br><a href=http://www.museoscolombianos.gov.co/fortalecimiento/comunicaciones/noticias/Paginas/cine_argentino.aspx target=_blank>CONSULTA AQUÍ LA PROGRAMACIÓN</a>",
+        "enlace": "http://www.museoscolombianos.gov.co",
+        "entrada": "Entrada libre",
+        "organizador": "MinCulturas y Embajada de Argentina"
     }
 ]
