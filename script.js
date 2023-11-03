@@ -1,5 +1,6 @@
 window.addEventListener('DOMContentLoaded', (event) => {
-    fetch('https://raw.githubusercontent.com/nezzul/eventos-culturas/main/datos.json')
+    //fetch('https://raw.githubusercontent.com/nezzul/eventos-culturas/main/datos.json')
+    fetch('datos.json')
         .then(response => response.json())
         .then(data => {
 
