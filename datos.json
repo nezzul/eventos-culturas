@@ -970,8 +970,8 @@
     },
     {
         "id": "ev58",
-        "fecha": "2023-12-14T23:59",
-        "fechaInicio": "Hasta el 17 de marzo",
+        "fecha": "2024-03-17T23:59",
+        "fechaInicio": "Hasta marzo 2024",
         "fechaFin": "",
         "fechaExpo": "Desde el 14 de diciembre",
         "categoria": "Apertura exposición",
@@ -980,14 +980,14 @@
         "alt": "La belleza de lo útil",
         "hora": "6:00 p. m.",
         "lugar": "Museo Colonial, Cra. 6 # 9-77, Bogotá D. C.",
-        "descripcion": "La belleza de lo útil: Artes decorativas y textiles en el Reino de la Nueva Granada.<br>Les invitamos a la inauguración de nuestra última exposición temporal del año La belleza de lo útil: Artes decorativas y textiles en el Nuevo Reino de Granada. ",
+        "descripcion": "La belleza de lo útil: Artes decorativas y textiles en el Reino de la Nueva Granada.<br>Les invitamos a la inauguración de nuestra última exposición temporal del año La belleza de lo útil: Artes decorativas y textiles en el Nuevo Reino de Granada.<br>Hasta el 17 de marzo de 2024.",
         "enlace": "http://www.museocolonial.gov.co",
         "entrada": "Entrada libre",
         "organizador": "Museo Colonial"
     },
     {
         "id": "ev59",
-        "fecha": "2023-12-14T23:59",
+        "fecha": "2023-12-16T23:59",
         "fechaInicio": "15 - 16 diciembre",
         "fechaFin": "",
         "fechaExpo": "Desde el 14 de diciembre",
@@ -1001,5 +1001,22 @@
         "enlace": "http://www.museocolonial.gov.co",
         "entrada": "Entrada libre",
         "organizador": "Museo Colonial"
+    },
+    {
+        "id": "ev60",
+        "fecha": "2024-03-21T23:59",
+        "fechaInicio": "Hasta marzo 2024",
+        "fechaFin": "",
+        "fechaExpo": "Desde el 6 de diciembre",
+        "categoria": "Exposición",
+        "titulo": "Los santos bajan, la tierra sube",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Los%20Santos%20Bajan%20la%20Tierra%20Sube%20600x600-mcas.jpg",
+        "alt": "Los santos bajan, la tierra sube",
+        "hora": "Horario del museo",
+        "lugar": "Museo Santa Clara,  Carrera 8 No. 8 – 91  Bogotá D.C.",
+        "descripcion": "Diálogos entre sacralidades<br>La Sierra Nevada de Santa Marta en Bogotá.<br>Fotografías de Coque Gamboa.",
+        "enlace": "http://www.museocolonial.gov.co",
+        "entrada": "-",
+        "organizador": "Museo Santa Clara"
     }
 ]
