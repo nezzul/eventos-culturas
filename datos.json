@@ -1018,5 +1018,39 @@
         "enlace": "http://www.museocolonial.gov.co",
         "entrada": "-",
         "organizador": "Museo Santa Clara"
+    },
+    {
+        "id": "ev61",
+        "fecha": "2024-01-03T23:59",
+        "fechaInicio": "Hasta 3 de enero",
+        "fechaFin": "",
+        "fechaExpo": "Desde el 28 de diciembre ",
+        "categoria": "Carnaval",
+        "titulo": "Celebración cultural del día de los inocentes y carnaval tradicional de fin de año",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Pieza1_Casabianca-mcas.jpg",
+        "alt": "Celebración cultural del día de los inocentes y carnaval tradicional de fin de año",
+        "hora": "",
+        "lugar": "Casablanca, Tolima",
+        "descripcion": "La celebración cultural del Día de los Inocentes y el Carnaval Tradicional de Fin de Año es un evento anual en el municipio de Casabianca reconocido por la comunidad como una parte fundamental de las tradiciones locales.<br>El Carnaval inicia el 28 de diciembre, día de los Inocentes, proporcionando un espacio de sana diversión para participantes de todas las edades; donde se conmemorarán momentos significativos del año y a personas memorables.<br>La Alcaldía de Casabianca les extiende una cordial invitación a participar en la \"Celebración Cultural del Día de los Inocentes y Carnaval Tradicional de Fin de Año,\" que se llevará a cabo desde el 28 de diciembre de 2023 hasta el 3 de enero de 2024 en el municipio.<br>¡Esperamos contar con su participación!",
+        "enlace": "www.mincultura.gov.co",
+        "entrada": "Entrada libre",
+        "organizador": "Programa Nacional de Concertación 2023"
+    },
+    {
+        "id": "ev61",
+        "fecha": "2023-12-28T23:59",
+        "fechaInicio": "28 de diciembre",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Festival",
+        "titulo": "Arcoiris en el asfalto",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Pieza2_Arcoiris-mcas.jpg",
+        "alt": "Arcoiris en el asfalto",
+        "hora": "7:00 a. m.",
+        "lugar": "Tuquerres, Nariño",
+        "descripcion": "Es un proyecto que busca la apropiación y el derecho al uso de la ciudad generando un ambiente de paz y convivencia para compartir con familiares y amigos al disfrutar del arte, la pintura, el teatro, la poesía, la danza y la música.<br>En este evento el arte, la tiza y el asfalto se mezclan en las calles de Pasto, el 28 de diciembre desde las 7:00 a. m. hasta las 10:00 p. m., reuniendo espectadores y artistas que dan color y arte a las calles.<br>¡Los esperamos!",
+        "enlace": "www.mincultura.gov.co",
+        "entrada": "Entrada libre",
+        "organizador": "Programa Nacional de Concertación 2023"
     }
 ]
