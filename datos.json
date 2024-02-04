@@ -1052,5 +1052,22 @@
         "enlace": "www.mincultura.gov.co",
         "entrada": "Entrada libre",
         "organizador": "Programa Nacional de Concertación 2023"
+    },
+    {
+        "id": "ev63",
+        "fecha": "2024-02-07T23:59",
+        "fechaInicio": "7 de febrero",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Conversatorio",
+        "titulo": "Volver sobre el Carnero",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/El%20Carnero%20ICC%20600x600-mcas.jpg",
+        "alt": "Volver sobre el Carnero",
+        "hora": "4:30 p. m.",
+        "lugar": "Auditorio Ignacio Chávez, Calle 10#4-69 Bogotá D.C.",
+        "descripcion": "Escrito por Juan Rodríguez Freyle en las primeras décadas del siglo XVII, pero publicado por vez primera en Bogotá en 1859, El Carnero es una de las obras imprescindibles de la historia colonial en Colombia. Dueña de recursos narrativos tan diversos que han dificultado su clasificación, y asimismo de una historia editorial expresiva de las formas de circulación, lectura y relectura del libro manuscrito en el Nuevo Reino de Granada antes de la llegada de la imprenta, esta obra continúa atrayendo la atención de investigadores de ambos lados del Atlántico.",
+        "enlace": "https://www.caroycuervo.gov.co",
+        "entrada": "Entrada libre",
+        "organizador": "Instituto Caro y Cuervo"
     }
 ]
