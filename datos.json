@@ -1171,5 +1171,22 @@
         "enlace": "https://www.facebook.com/fundacionteatralelquijote",
         "entrada": "Entrada libre",
         "organizador": "Fundación Teatral El Quijote"
+    },
+    {
+        "id": "ev70",
+        "fecha": "2024-03-10T23:59",
+        "fechaInicio": "Desde 4 de marzo",
+        "fechaFin": "",
+        "fechaExpo": "Hasta 10 de marzo",
+        "categoria": "Encuentro Cultural",
+        "titulo": "7° Encuentro Cultural y Artístico “Mujeres del alma”",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/quijote-mcas.jpg",
+        "alt": "7° Encuentro Cultural y Artístico “Mujeres del alma”",
+        "hora": "",
+        "lugar": "Manizales, Caldas",
+        "descripcion": "Conmemora el Día Internacional de la Mujer con arte, cultura, danza, poesía, música y teatro en el 7° Encuentro Cultural y Artístico “Mujeres del Alma, gestoras de paz, diversidad y género”, en Manizales.<br>Contaremos con un componente pedagógico y una gran programación de fortalecimiento y ayuda a las mujeres en su parte emocional. Nos acompañarán fundaciones especializadas en derechos humanos, cuidado mental, cuidado físico y espiritual como Conexión humanos, Expresarte, Like por la vida, Policía Nacional (área de Derechos Humanos), Patrulla Púrpura, plataforma Juvenil de Manizales.<br>Este evento es organizado por la Fundación Teatral El Quijote, beneficiaria del Programa Nacional de Concertación Cultural.",
+        "enlace": "https://www.instagram.com/adrianaquijote/",
+        "entrada": "Entrada libre",
+        "organizador": "Fundación Teatral El Quijote"
     }
 ]
