@@ -1375,5 +1375,22 @@
         "enlace": "",
         "entrada": "Entrada libre",
         "organizador": "Corporación Elipsis"
+    },
+    {
+        "id": "ev82",
+        "fecha": "2024-03-31T23:59",
+        "fechaInicio": "Hasta 31 marzo",
+        "fechaFin": "",
+        "fechaExpo": "Desde 20",
+        "categoria": "Exposición",
+        "titulo": "Códice futuro",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Codice%20future-mcas.jpg",
+        "alt": "Códice futuro",
+        "hora": "Martes a viernes de 2 p.m. a 6 p.m. Sábado, domingos y festivos de 11 a.m. a 6 p.m. ",
+        "lugar": "Cinemateca de Bogotá  Carrera 3 No. 19 - 10 Sala E - Bogotá D.C., Cundinamarca",
+        "descripcion": "Códice Futuro es un proyecto ganador de la convocatoria Crea Digital 2022 del Ministerio de las Culturas las Artes y los Saberes junto con el Ministerio de las TIC. La exposición aborda el concepto del tiempo y el futuro desde una perspectiva ancestral, tomando elementos de algunas cosmovisiones indígenas colombianas como punto de partida. Esta propuesta busca proponer el futuro como un entramado que supera las visiones utópicas y distópicas promovidas por las narraciones más populares y, desde allí, traza caminos y visiones que dialogan constantemente con aquellas y aquellos que visitan sus historias.<br>La exposición incluye:<br>- Ilustraciones en 360°:  historias y paisajes que cobran vida a tu alrededor.<br>- Realidad aumentada: interacción con elementos ancestrales que se superponen al mundo real.<br>- Realidad virtual: viaje inmersivo al corazón de la sabiduría indígena.<br>- Oráculo de todos los tiempos: consulta de las predicciones del futuro basadas en la tradición ancestral.",
+        "enlace": "https://cinematecadebogota.gov.co/actividad/codice-futuro",
+        "entrada": "Entrada libre",
+        "organizador": "Ministerio de las Culturas y Min TIC "
     }
 ]
