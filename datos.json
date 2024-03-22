@@ -53,7 +53,7 @@
     {
         "id": "ev4",
         "fecha": "2024-03-31T23:59",
-        "fechaInicio": "Hasta marzo 2024",
+        "fechaInicio": "Hasta 31 marzo",
         "fechaFin": "",
         "fechaExpo": "Del 26 de octubre",
         "categoria": "Exposición",
@@ -104,7 +104,7 @@
     {
         "id": "ev7",
         "fecha": "2024-03-31T23:59",
-        "fechaInicio": "Hasta marzo 2024",
+        "fechaInicio": "Hasta 31 marzo",
         "fechaFin": "",
         "fechaExpo": "Desde el 5 de octubre ",
         "categoria": "Exposición",
@@ -138,7 +138,7 @@
     {
     "id": "ev9",
     "fecha": "2024-03-31T23:59",
-    "fechaInicio": "Hasta marzo 2024",
+    "fechaInicio": "Hasta 31 marzo",
     "fechaFin": "",
     "fechaExpo": "Desde el 21 de octubre ",
     "categoria": "Exposición",
@@ -801,7 +801,7 @@
     {
         "id": "ev48",
         "fecha": "2024-03-31T23:59",
-        "fechaInicio": "Hasta marzo 2024",
+        "fechaInicio": "Hasta 31 marzo",
         "fechaFin": "",
         "fechaExpo": "Desde el 23 de noviembre",
         "categoria": "Exposición",
@@ -971,7 +971,7 @@
     {
         "id": "ev58",
         "fecha": "2024-03-17T23:59",
-        "fechaInicio": "Hasta marzo 2024",
+        "fechaInicio": "Hasta 17 marzo",
         "fechaFin": "",
         "fechaExpo": "Desde el 14 de diciembre",
         "categoria": "Apertura exposición",
@@ -1392,5 +1392,39 @@
         "enlace": "https://cinematecadebogota.gov.co/actividad/codice-futuro",
         "entrada": "Entrada libre",
         "organizador": "Ministerio de las Culturas y Min TIC "
+    },
+    {
+        "id": "ev83",
+        "fecha": "2024-03-24T23:59",
+        "fechaInicio": "Hasta 24 marzo",
+        "fechaFin": "",
+        "fechaExpo": "Desde 22",
+        "categoria": "Encuentro",
+        "titulo": "Primer Encuentro de Educación en Salud Mental desde la Cultura",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Psicopilos_Imagen%20Convocatorias-mcas.jpg",
+        "alt": "Primer Encuentro de Educación en Salud Mental desde la Cultura",
+        "hora": "9:00 a.m. a 4:00 p.m.",
+        "lugar": "Chaparral, Tolima",
+        "descripcion": "Acompáñanos en el Primer Encuentro de Educación en Salud Mental desde la Cultura, evento que nace del proyecto Cultura y Construcción de Paz, apoyado por el Programa Nacional de Concertación Cultural del Ministerio de las Culturas.<br>Disfruta en familia de juegos tradicionales, talleres, deporte y actividades artísticas. Recuerda inscribirte en el siguiente enlace: <a href=https://forms.gle/isyJNgZm5PYcWC5A7 target=_blank>https://forms.gle/isyJNgZm5PYcWC5A7</a>",
+        "enlace": "",
+        "entrada": "Entrada libre con inscripción previa",
+        "organizador": "Fundación Colombiana de Salud Mental y Educación - Psicopilos "
+    },
+    {
+        "id": "ev84",
+        "fecha": "2024-03-31T23:59",
+        "fechaInicio": "Hasta 31 marzo",
+        "fechaFin": "",
+        "fechaExpo": "Desde 30",
+        "categoria": "Festival",
+        "titulo": "XXII Festival del Recuerdo ´Tradición Oral del Hombre Anfibio y su Mundo´",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/FestivalRecuerdo_Imagen%20Convocatorias-mcas.jpg",
+        "alt": "XXII Festival del Recuerdo ´Tradición Oral del Hombre Anfibio y su Mundo´",
+        "hora": "8:00 a. m. - 6:00 p. m.",
+        "lugar": "Corregimiento de Troncoso - San Sebastián de Buenavista, Magdalena",
+        "descripcion": "Es un evento que nace de la motivación del licenciado Armando Navarro, quien hasta la fecha ha asumido el reto de converger en un solo espacio físico (Corregimiento de Troncoso) la diversidad de saberes , muestras culturales y manifestación de las artes que enmarcan, como lo dice su mismo nombre, la vida del hombre anfibio en su mundo que viene a ser el Río Magdalena - Brazo Mompox; permitiéndole a sus habitantes mantener la identidad, sus tradiciones y costumbres en el tiempo; y a sus visitantes, disfrutar de danzas folclóricas, decimeros, cuenteros así como concursos de: canción inédita (vallenato), piquería, atarrayeros, canoeros; juegos tradicionales: Dominó y Cucunubá; muestras gastronómicas y artesanales. Son experiencias aterrizadas a la integración, paz y alegría en un solo lugar con múltiples escenarios.",
+        "enlace": "",
+        "entrada": "Entrada libre",
+        "organizador": "Junta de Acción Comunal del corregimiento de Troncoso"
     }
 ]
