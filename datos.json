@@ -1426,5 +1426,22 @@
         "enlace": "",
         "entrada": "Entrada libre",
         "organizador": "Junta de Acción Comunal del corregimiento de Troncoso"
+    },
+    {
+        "id": "ev84",
+        "fecha": "2024-03-30T23:59",
+        "fechaInicio": "Hasta 30 marzo",
+        "fechaFin": "",
+        "fechaExpo": "Desde 26 marzo",
+        "categoria": "Festival",
+        "titulo": "XV Festival de Cocina Tradicional Mesa Larga",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Image_Lorena%20Machado%20Fiori-mcas-mcas.jpg",
+        "alt": "XV Festival de Cocina Tradicional Mesa Larga",
+        "hora": "",
+        "lugar": "Parque Mosquera, Galería Barrio Bolívar - Popayán, Cauca",
+        "descripcion": "El pipián y la hoja de coca, dos productos insignias de las comunidades del Cauca, son los protagonistas del XV Festival de Cocina Tradicional Mesa Larga que se realiza en Popayán hasta el 30 de marzo.<br>Allí, los asistentes disfrutarán de recetas ancestrales elaboradas con productos locales, además de intervenciones artísticas, talleres y conversatorios en torno a la cultura alimentaria y su salvaguarda.<br>Organizado por la Asociación de comerciantes y trabajadores de la plaza de mercado del Barrio Bolívar, la Cooperativa Mesa larga y la Red de Ollas comunitarias, tres organizaciones de base comunitaria de Popayán, este festival es una apuesta por rescatar las plazas de mercado como un territorio de vida y por darle un valor a las y los cocineros tradicionales y agricultores que hacen de ellas parte de su patrimonio vivo, de su sostenibilidad y trabajo colectivo.<br>Este encuentro, también, está enmarcado dentro de la Política para el conocimiento, salvaguardia y fomento de la alimentación y cocinas tradicionales de Colombia que, desde el programa Cocinas para la paz, aporta a la valoración y fortalecimiento de las prácticas alimentarias y culinarias de las comunidades como ejes de su desarrollo sostenible, soberanía alimentaria y cultura de paz.",
+        "enlace": "https://www.facebook.com/profile.php?id=61555777216923&mibextid=LQQJ4d&paipv=0&eav=AfZNXlH1_CUrDN2ErbFL-W4vldlXtMbO9_ah9no7Vt438D6VgkWQUa9MdEWR7SJL5gY&_rdr",
+        "entrada": "Entrada libre",
+        "organizador": "MinCulturas y MinComercio "
     }
 ]
