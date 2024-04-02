@@ -5,16 +5,15 @@
     font-family: 'Nunito Sans', sans-serif;
     text-align: center;
     line-height: 1.1;
-    max-width: 1400px;
+    max-width: 1000px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-
   }
   
   #galeria .card {
     flex-basis: calc(18% - 20px);
-    border: 2px solid #4b3c8c;
+    border: 2px solid #5F189D;
     margin: 5px;
     border: 1px solid gray;
   }
@@ -23,13 +22,13 @@
     color: gray;
     font-size: 1em;
     line-height: 1.5;
-    border-bottom: 1px solid #4b3c8c;
+    border-bottom: 1px solid #5F189D;
     margin-top: 0px;
   }
 
   #galeria .fechaInicio {
     color: white;
-    background-color: #4b3c8c;
+    background-color: #5F189D;
     font-size: 1.5em;
     text-align: center;
     margin: 0px;
@@ -121,7 +120,7 @@
   .modal .fechaInicio {
     font-size: 2em;
     color: white;
-    background-color: #4b3c8c;
+    background-color: #5F189D;
     text-align: center;
     width: 100%;
     padding: 10px;
@@ -185,24 +184,20 @@
 
 /* HEADER  */
 .topbar {
+  background-color: #5F189D;
   display: grid;
   grid-template-columns: min-content 1fr;
   grid-template-rows: min-content min-content;
   gap: 10px;
 }
-.logo2 {
-  justify-self: end;
-  padding-top: 10px;
-  padding-right: 20px;
-}
-@media (max-width: 640px) {
-  .logo2 {
-      width: 120px;
-  }  
-}
+ 
 .logolink {
-  padding-top: 20px;
+  padding-top: 10px;
   padding-left: 20px;
+}
+
+.logolink img {
+  width: 200px;
 }
 
 @media (max-width: 640px) {
@@ -227,7 +222,7 @@
   margin-bottom: 1rem;
   font-family: nunito, sans-serif;
   font-weight: 600;
-  background-color: #4b3c8c;
+  background-color: #5F189D;
 }
 
 /* TÍTULO DE PÁGINA DE ARCHIVO */
