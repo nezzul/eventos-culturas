@@ -1443,5 +1443,22 @@
         "enlace": "https://www.facebook.com/profile.php?id=61555777216923&mibextid=LQQJ4d&paipv=0&eav=AfZNXlH1_CUrDN2ErbFL-W4vldlXtMbO9_ah9no7Vt438D6VgkWQUa9MdEWR7SJL5gY&_rdr",
         "entrada": "Entrada libre",
         "organizador": "MinCulturas y MinComercio "
+    },
+    {
+        "id": "ev85",
+        "fecha": "2024-04-12T23:59",
+        "fechaInicio": "12 de abril",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Concierto",
+        "titulo": "PazRock",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/CARTEL_PAZ_CARRUSEL_agenda.jpg",
+        "alt": "PazRock",
+        "hora": "12:00 m.",
+        "lugar": "Plaza de Bolívar, Bogotá D.C., Cundinamarca",
+        "descripcion": "El concierto contará con la participación de artistas de Colombia, Argentina, Estados Unidos, México, Paraguay y Venezuela. Esta primera edición de PazRock, busca evidenciar el potencial de la música como vehículo para la expresión de la voluntad de paz. La entrada es libre para todas las personas mayores de 14 años.",
+        "enlace": "https://www.mincultura.gov.co/prensa/noticias/Paginas/Paz-Rock-la-potencia-de-la-musica-en-un-mensaje-de-paz.aspx",
+        "entrada": "Entrada libre",
+        "organizador": "Ministerio de las Culturas, las Artes y los Saberes"
     }
 ]
