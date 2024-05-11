@@ -1460,5 +1460,39 @@
         "enlace": "https://www.mincultura.gov.co/prensa/noticias/Paginas/Paz-Rock-la-potencia-de-la-musica-en-un-mensaje-de-paz.aspx",
         "entrada": "Entrada libre",
         "organizador": "Ministerio de las Culturas, las Artes y los Saberes"
+    },
+    {
+        "id": "ev86",
+        "fecha": "2024-05-31T23:59",
+        "fechaInicio": "1 al 31 de mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Programación general",
+        "titulo": "Programación Mayo Centro Nacional de las Artes Delia Zapata Olivella",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/programaci%C3%B3n-CNA-mayo-2024-mcas.jpg",
+        "alt": "Programación Mayo Centro Nacional de las Artes Delia Zapata Olivella",
+        "hora": "",
+        "lugar": "Calle 11 # 5 – 60 Bogotá, Colombia.",
+        "descripcion": "Conoce toda la programación de mayo del Centro Nacional de las Artes Delia Zapata Olivella en el siguiente enlace: <a href=https://eneldelia.gov.co/wp-content/uploads/2024/05/Programacio%CC%81n-Mayo-en-el-Delia_encuentro_afro_y_ma%CC%81s.pdf target=_blank>PROGRAMACIÓN MAYO CNA</a>",
+        "enlace": "https://eneldelia.gov.co/wp-content/uploads/2024/05/Programacio%CC%81n-Mayo-en-el-Delia_encuentro_afro_y_ma%CC%81s.pdf",
+        "entrada": "Consultar programación",
+        "organizador": "Centro Nacional de las Artes"
+    },
+    {
+        "id": "ev87",
+        "fecha": "2024-05-14T23:59",
+        "fechaInicio": "10 de mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Taller",
+        "titulo": "Capacitación - Taller Calamar 2024",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Giovanni%20Duran%20Polo-mcas.jpg",
+        "alt": "Capacitación - Taller Calamar 2024",
+        "hora": "8:00 a. m. a 12:30 p. m.",
+        "lugar": "'Universidad del Atlántico, Centro de Convenciones, Sala 2 - Barranquilla. Antigua Vía a Puerto Colombia, Atlántico.",
+        "descripcion": "Asiste al taller colaborativo de Patrimonios integrados.",
+        "enlace": "https://www.mincultura.gov.co/areas/patrimonio/patrimonio-cultural-inmueble/patrimonio-urbano-centros-historicos/Paginas/default.aspx",
+        "entrada": "Libre con inscripción previa",
+        "organizador": "Ministerio de las Culturas, las Artes y los Saberes"
     }
 ]
