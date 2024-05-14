@@ -1545,5 +1545,22 @@
         "enlace": "http://www.quintadebolivar.gov.co/",
         "entrada": "Entrada libre",
         "organizador": "Casa Museo Quinta de Bolívar"
+    },
+    {
+        "id": "ev91",
+        "fecha": "2024-05-21T23:59",
+        "fechaInicio": "21 de mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Museo",
+        "titulo": "Pasaporte a la Independencia: Un viaje por Los Cayos",
+        "imagen": "http://www.quintadebolivar.gov.co/programacion/PublishingImages/05_21_2024_Pasaporte_horizontal.jpg",
+        "alt": "Pasaporte a la Independencia: Un viaje por Los Cayos",
+        "hora": "3:00 p. m.",
+        "lugar": "Calle 21 #4A-30 Este, Casa Museo Quinta de Bolívar, Bogotá D.C.",
+        "descripcion": "En el Día de la Afrocolombianidad, únete a esta travesía con tus amigos por distintos espacios de la Casa Museo Quinta de Bolívar en búsqueda de la libertad y obtén tu \"Pasaporte a la Independencia\". Reconoceremos los aportes de Haití y Alexandre Petión en los procesos de independencia de distintos pueblos latinoamericanos y entenderemos las condiciones históricas, las luchas y la resistencia de la población afrodescendiente en el territorio americano.",
+        "enlace": "http://www.quintadebolivar.gov.co/",
+        "entrada": "Entrada libre",
+        "organizador": "Casa Museo Quinta de Bolívar"
     }
 ]
