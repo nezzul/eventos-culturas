@@ -1562,5 +1562,22 @@
         "enlace": "http://www.quintadebolivar.gov.co/",
         "entrada": "Entrada libre",
         "organizador": "Casa Museo Quinta de Bolívar"
+    },
+    {
+        "id": "ev92",
+        "fecha": "2024-05-22T23:59",
+        "fechaInicio": "22 de mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Conversatorio",
+        "titulo": "Representación y auto representación: presencia afro en el arte y las colecciones colombianas",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/05_22_2024_Conversatorio_Representaci%C3%B3n_afro-Eventos.jpg",
+        "alt": "Representación y auto representación: presencia afro en el arte y las colecciones colombianas",
+        "hora": "3:00 p. m.",
+        "lugar": "Calle 21 #4A-30 Este, Casa Museo Quinta de Bolívar, Bogotá D.C.",
+        "descripcion": "¿Cómo era la representación afro en el arte colombiano? A propósito del Día de la Afrocolombianidad, acompáñanos en este espacio en donde revisaremos la presencia y ausencia de la comunidad afro en las colecciones de arte colombiano desde el siglo XIX hasta el siglo XXI.",
+        "enlace": "http://www.quintadebolivar.gov.co/",
+        "entrada": "Entrada libre",
+        "organizador": "Casa Museo Quinta de Bolívar"
     }
 ]
