@@ -1936,5 +1936,22 @@
         "enlace": "https://www.museoindependencia.gov.co",
         "entrada": "Libre con inscripción previa",
         "organizador": "Museo de la Independencia Casa del Florero"
+    },
+    {
+        "id": "ev109",
+        "fecha": "2024-05-19T23:59",
+        "fechaInicio": "18 y 19 mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Feria",
+        "titulo": "Feria gastronómica y artesanal del legado ancestral de mujeres emprendedoras, versión I",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/FuMdefa-Eventos.jpg",
+        "alt": "Feria gastronómica y artesanal del legado ancestral de mujeres emprendedoras, versión I",
+        "hora": "10:00 a. m.",
+        "lugar": "Plaza principal de Luruaco, Luruaco, Atlántico.",
+        "descripcion": "Es la primera feria gastronómica y artesanal del municipio de Luruaco (Atlántico), donde hay un gran número de mujeres portadoras de la tradición culinaria y artesanales heredadas de nuestros ancestros, una variedad de platos que hoy demuestran la gastronomía fuertemente arraigada en nuestras familias.<br>Este evento abre la posibilidad de transmitir los conocimientos ancestrales a las nuevas y futuras generaciones.<br>Las y los asistentes disfrutarán gastronomía, confección, artesanías, marroquinería, bisutería, entre otros.",
+        "enlace": "",
+        "entrada": "Entrada libre",
+        "organizador": "Fumdefa – Fundación Mujeres Emprendedoras"
     }
 ]
