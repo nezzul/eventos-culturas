@@ -1511,5 +1511,22 @@
         "enlace": "https://www.instagram.com/p/C6wdRhvJlR1/",
         "entrada": "Entrada libre",
         "organizador": "Ministerio de las Culturas y Gobernación de Norte de Santander"
+    },
+    {
+        "id": "ev89",
+        "fecha": "2024-05-18T23:59",
+        "fechaInicio": "18 de mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Museos",
+        "titulo": "Día Internacional de los Museos",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/05_18_2024_DIM_MICF-Eventos.jpg",
+        "alt": "Día Internacional de los Museos",
+        "hora": "9:00 a. m a 5:00 p. m",
+        "lugar": "Calle 21 #4A-30 Este, Casa Museo Quinta de Bolívar, Bogotá D.C.",
+        "descripcion": "La Casa Museo Quinta de Bolívar, se une a esta celebración mundial con varias actividades educativas y culturales. Además, presenta el nuevo portafolio de servicios educativos, que cuenta con propuestas que buscan ofrecer a sus públicos, mayores y variadas experiencias, que les permiten acercarse a los contenidos en historia, arte, costumbres, arqueología histórica y patrimonio natural en nuevos lenguajes que dialoguen con la actualidad.",
+        "enlace": "http://www.quintadebolivar.gov.co/",
+        "entrada": "Entrada libre",
+        "organizador": "Casa Museo Quinta de Bolívar"
     }
 ]
