@@ -1528,5 +1528,22 @@
         "enlace": "http://www.quintadebolivar.gov.co/",
         "entrada": "Entrada libre",
         "organizador": "Casa Museo Quinta de Bolívar"
+    },
+    {
+        "id": "ev90",
+        "fecha": "2024-05-18T23:59",
+        "fechaInicio": "18 de mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Taller",
+        "titulo": "Memes, stickers e iconografía - nuevos servicios educativos en la Quinta",
+        "imagen": "http://www.quintadebolivar.gov.co/SiteAssets/Logo-Museo.png",
+        "alt": "Memes, stickers e iconografía - nuevos servicios educativos en la Quinta",
+        "hora": "",
+        "lugar": "Calle 21 #4A-30 Este, Casa Museo Quinta de Bolívar, Bogotá D.C.",
+        "descripcion": "Acompáñanos en esta nueva propuesta pedagógica, donde analizaremos uno de los fenómenos culturales más interesantes de la era digital; los memes, y como este representa nuestras formas de consumo cultural actual, así como en el siglo XIX, las imágenes creadas de los próceres, las batallas y las costumbres cumplieron su función y se consumieron creando una nación. Estas reflexiones las complementaremos con la creación de memes y stickers digitales con nuestro celular, uniendo lenguajes del siglo XIX con el presente.",
+        "enlace": "http://www.quintadebolivar.gov.co/",
+        "entrada": "Entrada libre",
+        "organizador": "Casa Museo Quinta de Bolívar"
     }
 ]
