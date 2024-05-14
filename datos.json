@@ -1494,5 +1494,22 @@
         "enlace": "https://www.mincultura.gov.co/areas/patrimonio/patrimonio-cultural-inmueble/patrimonio-urbano-centros-historicos/Paginas/default.aspx",
         "entrada": "Libre con inscripción previa",
         "organizador": "Ministerio de las Culturas, las Artes y los Saberes"
+    },
+    {
+        "id": "ev88",
+        "fecha": "2024-05-17T23:59",
+        "fechaInicio": "16 de mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Conversatorio",
+        "titulo": "Socialización políticas públicas y convocatorias del sector cinematográfico en Colombia",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/ConsejoCine_01_Alejandra%20Virguez%20Va-mcas.jpg",
+        "alt": "Socialización políticas públicas y convocatorias del sector cinematográfico en Colombia",
+        "hora": "3:00 p. m. a 6:00 p. m.",
+        "lugar": "Centro Cultural Quinta Teresa - Av 4 #15-125, Cúcuta, Norte de Santander ",
+        "descripcion": "¡Atención a productores, técnicos, distribuidores, comunicadores, críticos, periodistas, consejeros de cine, facultades y programas de comunicación social, producción multimedia, audiovisual y cine! 🎬<br>El próximo 16 de mayo de 2024, en la ciudad de Cúcuta, realizaremos la socialización de políticas públicas y convocatorias del sector cinematográfico en Colombia. Conversaremos sobre: las funciones de los consejos de cine, leyes que fomentan el sector, fuentes de financiación y convocatorias para el cine nacional.",
+        "enlace": "https://www.instagram.com/p/C6wdRhvJlR1/",
+        "entrada": "Entrada libre",
+        "organizador": "Ministerio de las Culturas y Gobernación de Norte de Santander"
     }
 ]
