@@ -40,9 +40,9 @@
   
   #galeria .titulo {
     color: rgb(54, 54, 54);
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-style: normal;
-    height: 3.4em;
+    height: 5.5em;
     margin-left: 10px;
     margin-right: 10px;
     padding-top: 10px;
@@ -66,12 +66,13 @@
     font-size: 1em;
     margin-top: 0px;
     margin-bottom: 0px;
+    height: 2.4em;
   }
 
   #galeria .organizador {
     background-color: gray;
     color: white;
-    height: 2em;
+    height: 3em;
     margin-bottom: 0px;
     padding-top: 7px;
     padding-bottom: 7px;
