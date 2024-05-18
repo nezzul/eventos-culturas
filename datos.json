@@ -1953,5 +1953,22 @@
         "enlace": "",
         "entrada": "Entrada libre",
         "organizador": "Fumdefa – Fundación Mujeres Emprendedoras"
+    },
+    {
+        "id": "ev110",
+        "fecha": "2024-05-18T23:59",
+        "fechaInicio": "18 de mayo",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Charla",
+        "titulo": "Proceso de la cerámica tradicional",
+        "imagen": "https://www.mincultura.gov.co/eventos/PublishingImages/Charla%20Proceso%20de%20Ceramica%20ICC-Eventos.jpeg",
+        "alt": "Proceso de la cerámica tradicional",
+        "hora": "11:00 a. m.",
+        "lugar": "Facebook Live y Youtube",
+        "descripcion": "Cada 18 de mayo se celebra el Día Internacional de los Museos.<br>En esta oportunidad, el Instituto Caro y Cuervo invita a los interesados a participar de una charla sobre el proceso de la cerámica en El Carmen de Viboral, todo en el marco de la exposición temporal “¿Será cerámica?”.<br>La muestra presenta una cuidadosa selección de objetos cerámicos procedentes de diversas regiones de Colombia.<br>En la exposición, los visitantes podrán admirar muestras de cerámica terracota negra, cerámica pintada, cerámica vidriada, loza fina y porcelana.<br>Este evento tendrá lugar este sábado, 18 de mayo, a las 11:00 a. m. Contaremos con transmisiones en vivo desde nuestro canal de YouTube y nuestra cuenta de Facebook. ¡Anímense a acompañarnos!<br>#DíaInternacionalDeLosMuseos y tenemos una invitación especial para ti. 🏛️✨<br>El #ICC te espera en la charla sobre el proceso de la cerámica en El Carmen de Viboral, parte de la exposición temporal '¿Será cerámica?''. 🏺<br>Hablaremos sobre cerámica de terracota negra, cerámica pintada, cerámica vidriada, loza fina y porcelana.<br💻 www.facebook.com/InstitutoCaroyCuervoColombia y www.youtube.com/CaroyCuervoTV>",
+        "enlace": "https://www.facebook.com/InstitutoCaroyCuervoColombia",
+        "entrada": "Entrada libre",
+        "organizador": "Instituto Caro y Cuervo"
     }
 ]
