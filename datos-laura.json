@@ -1,0 +1,18 @@
+[
+    {
+        "id": "ev112",
+        "fecha": "2024-06-25T23:59",
+        "fechaInicio": "25 de junio",
+        "fechaFin": "",
+        "fechaExpo": "",
+        "categoria": "Evento prueba",
+        "titulo": "Todos los eventos deben tener buena ortografía",
+        "imagen": "",
+        "alt": "Todos los eventos deben tener buena ortografía",
+        "hora": "5:00 p. m.",
+        "lugar": "Ministerio de Cultura, Carrera. 8 # 8-91, Bogotá D. C.",
+        "descripcion": "Este es un evento de prueba<br><br>aca un espaciado",
+        "entrada": "Entrada libre",
+        "organizador": "Ministerio de cultura"
+    }
+]
